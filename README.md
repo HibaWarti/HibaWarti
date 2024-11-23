@@ -16,9 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=HibaWarti&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+[![](https://visitcount.itsvg.in/api?id=wartihiba&label=Profile%20Views&color=10&icon=0&pretty=true)]
 ---
-[![](https://visitcount.itsvg.in/api?id=HibaWarti&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
