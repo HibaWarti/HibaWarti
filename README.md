@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning ...
+😊I build and maintain websites, combining coding and design to create responsive, user-friendly, and functional web solutions.
 
 
 ## 🌐 Socials:
