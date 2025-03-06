@@ -2,7 +2,7 @@
 Hi! I'm Hiba, a passionate web developer who combines creativity and technical expertise to build and maintain responsive, user-friendly, and functional web solutions. I thrive on designing engaging interfaces and developing efficient backends for seamless user experiences.
 
 ## 🌐 Connect with Me:  
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hiiiba) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/LuCy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/candy_hiba) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hiba-warti-676132335) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@wartihiba)  
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hiba-warti-676132335) 
 
 ---
 
